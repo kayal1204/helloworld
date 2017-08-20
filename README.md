@@ -1,2 +1,1 @@
-# helloworld
-just another repository
+# GUVI PROJECTS
