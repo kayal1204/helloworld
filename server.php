@@ -6,7 +6,7 @@
 	$errors = array(); 
 	$_SESSION['success'] = "";
 	// connect to database
-	$db = mysqli_connect('localhost', 'id2555841_root', 'aswin', 'id2555841_registration');
+	$db = mysqli_connect('localhost', 'id2555841_root', 'kayal', 'id2555841_registration');
 	// REGISTER USER
 	if (isset($_POST['reg_user'])) {
 		// receive all input values from the form
